@@ -24,7 +24,7 @@ Responsive Design: Access your journal on different screen sizes.
 
 Installation
 
-Clone the repository: git clone YOUR_REPOSITORY_URL
+Clone the repository: git clone https://github.com/melisfildis/travel-journal.git
 
 Navigate to the project directory: cd travel-journal
 
@@ -61,8 +61,7 @@ Responsive Tasarım: Farklı ekran boyutlarında erişilebilir kullanım.
 
 Kurulum
 
-Projeyi bilgisayarına klonla: git clone YOUR_REPOSITORY_URL
-
+Projeyi bilgisayarına klonla: git clone https://github.com/melisfildis/travel-journal.git
 Proje klasörüne gir: cd travel-journal
 
 Gerekli paketleri yükle: npm install
